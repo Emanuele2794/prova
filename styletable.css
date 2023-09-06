@@ -327,3 +327,9 @@ ul {
 		line-height: 28px;
 	}
 }
+
+.hosting-city {
+    height: 100%;
+    width: 100%;
+    background-color: #eee;
+}
